@@ -10,7 +10,7 @@ mvn clean install
 ### Run
 From the parent directory, execute the following command to start the application:
 ```
-java -jar target/spring-shell-example-1.0.0.jar
+java -jar target/atm-cli-1.0-SNAPSHOT.jar
 ```
 You should notice the application starting up:
 ```
