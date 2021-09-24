@@ -1,0 +1,6 @@
+atm:
+  logout_period: 60000
+  rate: 10000
+  startBalance: 130
+account:
+  account_filepath: "src/main/resources/accounts.txt"

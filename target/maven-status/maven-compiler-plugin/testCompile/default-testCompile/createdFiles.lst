@@ -1,0 +1,5 @@
+com/takeoff/atmcli/Application.class
+com/takeoff/atmcli/service/impl/AuthorizationTest.class
+com/takeoff/atmcli/service/impl/AtmImplTest.class
+com/takeoff/atmcli/service/impl/AccountServiceImplTest.class
+com/takeoff/atmcli/service/impl/CommandsTest.class
